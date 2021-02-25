@@ -4,7 +4,10 @@ models including bacteria segmentation, aerial image segmentation, cancer cell s
 
 If you couldn't load notebooks here, copy links and open it in Google Colaboratory.
 
+## Aerial Image Segmentation
 ![](images/drone-image-segmentation.png)
 
+<br>
 
+## Face Segmentation
 ![](images/face-segmentation-original-image.png) ![](images/face-segmentation.png)
