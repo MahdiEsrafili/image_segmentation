@@ -11,3 +11,8 @@ If you couldn't load notebooks here, copy links and open it in Google Colaborato
 
 ## Face Segmentation
 ![](images/face-segmentation-original-image.png) ![](images/face-segmentation.png)
+
+<br>
+
+## Bacterial Segmentation
+![](images/bacterial-segmentation.png)
